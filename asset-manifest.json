@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2f3e5f9.css",
-    "main.js": "/static/js/main.5a887e09.js",
+    "main.css": "/static/css/main.7461642d.css",
+    "main.js": "/static/js/main.de9e37dd.js",
     "static/media/avatar.jpg": "/static/media/avatar.d968a74cf720904c077c.jpg",
+    "static/media/Prasath-frontend-developer.pdf": "/static/media/Prasath-frontend-developer.315e66a57f88039a7038.pdf",
     "static/media/styled-components.svg": "/static/media/styled-components.d0fb5703aaf7b6357557cb384a972925.svg",
     "static/media/semantic-ui.svg": "/static/media/semantic-ui.eeed487590bf1b31253514656423e4d3.svg",
     "static/media/javascript.svg": "/static/media/javascript.44ec301cb89efa02753255ab47a5faca.svg",
@@ -29,11 +30,11 @@
     "static/media/x.svg": "/static/media/x.5e88e5bc49edfee4a51849a4fccbca7a.svg",
     "static/media/mail.svg": "/static/media/mail.fdb3d314eeb6b2defdab2d28163051e0.svg",
     "static/media/facebook.svg": "/static/media/facebook.d8d6ed7e7e1944617a96cf35b06c5879.svg",
-    "main.e2f3e5f9.css.map": "/static/css/main.e2f3e5f9.css.map",
-    "main.5a887e09.js.map": "/static/js/main.5a887e09.js.map"
+    "main.7461642d.css.map": "/static/css/main.7461642d.css.map",
+    "main.de9e37dd.js.map": "/static/js/main.de9e37dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2f3e5f9.css",
-    "static/js/main.5a887e09.js"
+    "static/css/main.7461642d.css",
+    "static/js/main.de9e37dd.js"
   ]
 }
