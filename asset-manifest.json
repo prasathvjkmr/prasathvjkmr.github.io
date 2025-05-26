@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.317cfcd1.css",
-    "main.js": "/static/js/main.0461c92e.js",
+    "main.js": "/static/js/main.27ec7d2a.js",
     "static/media/avatar.jpg": "/static/media/avatar.d968a74cf720904c077c.jpg",
     "static/media/Prasath-frontend-developer.pdf": "/static/media/Prasath-frontend-developer.3ff694a4e4359943f326.pdf",
     "static/media/styled-components.svg": "/static/media/styled-components.d0fb5703aaf7b6357557cb384a972925.svg",
@@ -31,10 +31,10 @@
     "static/media/mail.svg": "/static/media/mail.fdb3d314eeb6b2defdab2d28163051e0.svg",
     "static/media/facebook.svg": "/static/media/facebook.d8d6ed7e7e1944617a96cf35b06c5879.svg",
     "main.317cfcd1.css.map": "/static/css/main.317cfcd1.css.map",
-    "main.0461c92e.js.map": "/static/js/main.0461c92e.js.map"
+    "main.27ec7d2a.js.map": "/static/js/main.27ec7d2a.js.map"
   },
   "entrypoints": [
     "static/css/main.317cfcd1.css",
-    "static/js/main.0461c92e.js"
+    "static/js/main.27ec7d2a.js"
   ]
 }
